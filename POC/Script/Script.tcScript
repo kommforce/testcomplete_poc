@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="sample" key="{FF9E2E29-5A00-418D-9339-4B619E8A7DFD}" path="sample.py" />
+	</children>
+</Root>
